@@ -1,0 +1,86 @@
+Unmodified LZW 
+	all.tar - Origonal = 2960 kb Compressed = 1800 kb Ratio : 1.64
+     assig2.doc - Origonal = 85 kb   Compressed = 75 kb Ratio : 1.13
+       bmps.tar - Origonal = 1080 kb Compressed = 925 kb Ratio : 1.17
+       code.txt - Origonal = 71 kb   Compressed = 31 kb Ratio : 2.29		
+      code2.txt - Origonal = 57 kb   Compressed = 24 kb Ratio : 2.38
+       edit.exe - Origonal = 231 kb  Compressed = 251 kb Ratio : .92
+     frosty.jpg - Origonal = 124 kb  Compressed = 177 kb Ratio : .701
+gone_fishin.bmp - Origonal = 17 kb   Compressed = 9 kb Ratio : 1.89 
+      large.txt - Origonal = 1193 kb Compressed = 605 kb Ratio : 1.97
+   Lego-big.gif - Origonal = 92 kb   Compressed = 129 kb Ratio : .71
+     medium.txt - Origonal = 25 kb   Compressed = 13 kb Ratio : 1.92
+      texts.tar - Origonal = 1350 kb Compressed = 584 kb Ratio : 2.31
+      wacky.bmp - Origonal = 901  kb Compressed = 4 kb Ratio : 225.25
+   winnt256.bmp - Origonal = 154  kb Compressed = 158 kb Ratio : .97
+
+--------------------------------------------------------
+Do nothing Mode 
+	all.tar - Origonal = 2960 kb Compressed = 2960 kb Ratio : 1
+     assig2.doc - Origonal = 85 kb   Compressed = 40 kb Ratio : 2.125
+       bmps.tar - Origonal = 1080 kb Compressed = 80 kb Ratio : 13.5
+       code.txt - Origonal = 71 kb   Compressed = 24 kb Ratio : 2.96		
+      code2.txt - Origonal = 57 kb   Compressed = 21 kb Ratio : 2.71
+       edit.exe - Origonal = 231 kb  Compressed = 153 kb Ratio : 1.51
+     frosty.jpg - Origonal = 124 kb  Compressed = 160 kb Ratio : .775
+gone_fishin.bmp - Origonal = 17 kb   Compressed = 9 kb Ratio : 1.89 
+      large.txt - Origonal = 1193 kb Compressed = 491 kb Ratio : 2.43
+   Lego-big.gif - Origonal = 92 kb   Compressed = 120 kb Ratio : .767
+     medium.txt - Origonal = 25 kb   Compressed = 13 kb Ratio : 1.92
+      texts.tar - Origonal = 1350 kb Compressed = 584 kb Ratio : 2.31
+      wacky.bmp - Origonal = 901  kb Compressed = 4 kb Ratio : 225.25
+   winnt256.bmp - Origonal = 154  kb Compressed = 62 kb Ratio : 2.48
+
+--------------------------------------------------------
+
+Reset Mode 
+	all.tar - Origonal = 2960 kb Compressed = 2960 kb Ratio : 1
+     assig2.doc - Origonal = 85 kb   Compressed = 40 kb Ratio : 2.125
+       bmps.tar - Origonal = 1080 kb Compressed = 80 kb Ratio : 13.5
+       code.txt - Origonal = 71 kb   Compressed = 24 kb Ratio : 2.96		
+      code2.txt - Origonal = 57 kb   Compressed = 21 kb Ratio : 2.714
+       edit.exe - Origonal = 231 kb  Compressed = 149 kb Ratio : 1.55
+     frosty.jpg - Origonal = 124 kb  Compressed = 168 kb Ratio : .74 
+gone_fishin.bmp - Origonal = 17 kb   Compressed = 9 kb Ratio : 1.89 
+      large.txt - Origonal = 1193 kb Compressed = 516 kb Ratio : 2.31
+   Lego-big.gif - Origonal = 92 kb   Compressed = 120 kb Ratio : .767
+     medium.txt - Origonal = 25 kb   Compressed = 13 kb Ratio : 1.92
+      texts.tar - Origonal = 1350 kb Compressed = 577 kb Ratio : 2.34
+      wacky.bmp - Origonal = 901  kb Compressed = 4 kb Ratio : 225.25
+   winnt256.bmp - Origonal = 154  kb Compressed = 62 kb Ratio : 2.48 
+
+--------------------------------------------------------
+
+Monitor Mode 
+	all.tar - Origonal = 2960 kb Compressed = 2960 kb Ratio : 1
+     assig2.doc - Origonal = 85 kb   Compressed = 40 kb Ratio : 2.125
+       bmps.tar - Origonal = 1080 kb Compressed = 80 kb Ratio : 13.5
+       code.txt - Origonal = 71 kb   Compressed = 24 kb Ratio : 2.96		
+      code2.txt - Origonal = 57 kb   Compressed = 24 kb Ratio : 2.375
+       edit.exe - Origonal = 231 kb  Compressed = 153 kb Ratio : 1.51
+     frosty.jpg - Origonal = 124 kb  Compressed = 160 kb Ratio : .775
+gone_fishing.bmp- Origonal = 17 kb   Compressed = 9 kb Ratio : 1.89
+      large.txt - Origonal = 1193 kb Compressed = 491 kb Ratio : 2.43
+   Lego-big.gif - Origonal = 92 kb   Compressed = 120 kb Ratio : .77
+     medium.txt - Origonal = 25 kb   Compressed = 13 kb Ratio : 1.92
+      texts.tar - Origonal = 1350 kb Compressed = 584 kb Ratio : 2.31
+      wacky.bmp - Origonal = 901  kb Compressed = 4 kb Ratio : 225.25
+   winnt256.bmp - Origonal = 154  kb Compressed = 62 kb Ratio : 2.48
+
+--------------------------------------------------------
+
+WinZip
+	all.tar - Origonal = 2960 kb Compressed = 973 kb Ratio : 3.04
+     assig2.doc - Origonal = 85 kb   Compressed = 23 kb Ratio : 3.67
+       bmps.tar - Origonal = 1080 kb Compressed = 63 kb Ratio : 17.14
+       code.txt - Origonal = 71 kb   Compressed = 15 kb Ratio : 4.83		
+      code2.txt - Origonal = 57 kb   Compressed = 13 kb Ratio : 4.39
+       edit.exe - Origonal = 231 kb  Compressed = 127 kb Ratio : 1.82
+     frosty.jpg - Origonal = 124 kb  Compressed = 160 kb Ratio : .775
+gone_fishin.bmp - Origonal = 17 kb   Compressed = 9 kb Ratio : 1.89 
+      large.txt - Origonal = 1193 kb Compressed = 491 kb Ratio : 2.43
+   Lego-big.gif - Origonal = 92 kb   Compressed = 120 kb Ratio : .767
+     medium.txt - Origonal = 25 kb   Compressed = 11 kb Ratio : 2.72
+      texts.tar - Origonal = 1350 kb Compressed = 534 kb Ratio : 2.53
+      wacky.bmp - Origonal = 901  kb Compressed = 3 kb Ratio : 300.33
+   winnt256.bmp - Origonal = 154  kb Compressed = 49 kb Ratio : 3.14

@@ -1,0 +1,6 @@
+Henri Frelin 
+Assig 3
+3 / 23 / 2018
+
+The Car class defines the car object, which is stored in CarPQ and accessed by the driver class CarTracker. CarPQ contains a Price based Queue and a seperate Mileage based queue. The queue(s) utilize an indirected array, and the runtimes for adding are Olog(n), O(n) time for removal and update in worst case. Practically these will be 2*Olog(n) and 2*O(n) due to the access of both the Price and Mileage queues. The average being less due to some removals being not as intensive as others in respect to the position within the queue. This means that to pop the lowest item off the mileage or the price queue requires only O(1) time, as it is on the top of the queue. The make and model price & mile operations are at worst case O(n). The space will be 2*n as I am implementing both a Price & Mileage queue, but this is not signifigant for the test cases provided as the amount of data is very small and would require exponential scaling to see any issue with space overhead. 
+
